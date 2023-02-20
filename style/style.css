@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+}
+
+
+header{
+	height: 387.56px;
+	background-color: blue;
+	background-color: #0020F4;
+	padding-top: 40px;
+}
+nav li{
+	display: inline-block;
+}
+nav a{
+	color: #FFFFFF;
+}
+.section-title{
+	border: 5px solid red;
+
+	margin-top: 30px;
+	margin-bottom: 50px;
+	margin-right: 40px;
+	margin-left: 60px;
+
+	margin: 30px;
+	margin: 20px 30px;
+	margin: 30px 50px 40px;
+	margin: 30px 40px 50px 60px;
+
+
+	padding: 30px;
+}
+section{
+	max-width: 1195px;
+	width: 90%;
+	
+	margin: auto;
+	margin-top: -100px;
+}
+.main-img{
+	width: 100%;
+}
